@@ -1,0 +1,24 @@
+{
+  "name": "ajs-homeworks-3.2",
+  "version": "1.0.0",
+  "description": "Matchers",
+  "main": "index.js",
+  "scripts": {
+	"lint": "eslint .",
+	"test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.31.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "babel-jest": "^29.6.1",
+    "eslint": "^8.44.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "jest": "^29.6.1"
+  }
+}
